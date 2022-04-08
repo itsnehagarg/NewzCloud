@@ -50,6 +50,20 @@ For executing the application below steps needs to be followed:
 3. You can use VS code as the IDE for viewing the code and making the code changes.
 
 ## Scripts for execution of the app
+### `npm start`
+
+Runs your app in development mode.
+
+### `expo start`
+
+Runs your app in development mode.
+
 1. expo start - On execution of this command it will bundle all the libraries and resources and generate the QR code and a URL.
 2. Scan the QR code on your android or iOs device which has the expo app installed.
 3. After scanning the NewzCloud app will load and the user can start using the application.
+
+## Application screenshots and steps to use the app
+
+## Sharing and Deployment
+
+## Troubleshooting
