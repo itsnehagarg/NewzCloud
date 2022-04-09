@@ -8,7 +8,7 @@ import {
 } from "react-native";
 import Carousel from "react-native-snap-carousel";
 import { NewsContext } from "../API/Context";
-import SingleNews from "../components/SingleNews";
+import CloudNews from "../components/CloudNews";
 
 const NewsScreen = () => {
   const {
@@ -33,7 +33,7 @@ const NewsScreen = () => {
           itemHeight={windowHeight}
           vertical={true}
           renderItem={({ item, index }) => (
-            <SingleNews item={item} index={index} darkTheme={darkTheme} />
+            <CloudNews item={item} index={index} darkTheme={darkTheme} />
           )}
           onSnapToItem={(index) => setActiveIndex(index)}
         />

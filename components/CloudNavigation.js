@@ -6,14 +6,14 @@ import { Feather } from "@expo/vector-icons";
 import { NewsContext } from "../API/Context";
 import { MaterialCommunityIcons } from "@expo/vector-icons";
 
-const TopNavigation = ({ index, setIndex }) => {
+const CloudNavigation = ({ index, setIndex }) => {
   const { darkTheme, setDarkTheme, fetchNews } = useContext(NewsContext);
 
   return (
     <View
       style={{
         ...styles.container,
-        backgroundColor: darkTheme ? "#282C35" : "white",
+        backgroundColor: darkTheme ? "#271542" : "white",
       }}
     >
       {index === 0 ? (
@@ -74,7 +74,7 @@ const TopNavigation = ({ index, setIndex }) => {
   );
 };
 
-export default TopNavigation;
+export default CloudNavigation;
 
 const styles = StyleSheet.create({
   container: {

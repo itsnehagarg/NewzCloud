@@ -4,9 +4,9 @@ import { TabView, SceneMap } from "react-native-tab-view";
 import { NewsContext } from "../API/Context";
 import DiscoverScreen from "../Screens/DiscoverScreen";
 import NewsScreen from "../Screens/NewsScreen";
-import TopNavigation from "./TopNavigation";
+import CloudNavigation from "./CloudNavigation";
 
-export default function InshortTabs() {
+export default function NewzCloudTabs() {
   const layout = useWindowDimensions();
 
   const { index, setIndex } = useContext(NewsContext);
@@ -27,7 +27,7 @@ export default function InshortTabs() {
       renderScene={renderScene}
       onIndexChange={setIndex}
       initialLayout={{ width: layout.width }}
-      renderTabBar={() => <TopNavigation index={index} setIndex={setIndex} />}
+      renderTabBar={() => <CloudNavigation index={index} setIndex={setIndex} />}
     />
   );
 }

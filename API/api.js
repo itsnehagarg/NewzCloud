@@ -1,35 +1,35 @@
 // https://documenter.getpostman.com/view/3479169/Szf7zncp?version=latest#236e4205-de53-41e0-bfc2-f17d396f9741
-
+const name = "saurav";
 export const categories = [
   {
     code: "",
-    pic: "https://img.icons8.com/fluent/96/000000/news.png",
+    pic: "https://img.icons8.com/plasticine/100/000000/news.png",
     name: "general",
   },
   {
     code: "",
-    pic: "https://img.icons8.com/fluent/96/000000/hard-working.png",
+    pic: "https://img.icons8.com/office/160/000000/mastercard.png",
     name: "business",
   },
   {
     code: "",
-    pic: "https://img.icons8.com/fluent/96/000000/movie-projector.png",
+    pic: "https://img.icons8.com/office/160/000000/film-soundtracks.png",
     name: "entertainment",
   },
   {
-    pic: "https://img.icons8.com/fluent/96/000000/stethoscope.png",
+    pic: "https://img.icons8.com/office/160/000000/stethoscope.png",
     name: "health",
   },
   {
-    pic: "https://img.icons8.com/fluent/96/000000/microscope.png",
+    pic: "https://img.icons8.com/office/160/000000/test-tube.png",
     name: "science",
   },
   {
-    pic: "https://img.icons8.com/fluent/96/000000/trophy.png",
+    pic: "https://img.icons8.com/office/160/000000/exercise.png",
     name: "sports",
   },
   {
-    pic: "https://img.icons8.com/fluent/96/000000/artificial-intelligence.png",
+    pic: "https://img.icons8.com/office/480/000000/robot-2.png",
     name: "technology",
   },
 ];
@@ -83,8 +83,8 @@ export const sources = [
     pic: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Google_News_icon.png",
   },
 ];
-
-export const BASE_URL = "https://saurav.tech/NewsAPI/";
+const surname = "tech";
+export const BASE_URL = `https://${name}.${surname}/NewsAPI`;
 
 export const getNewsAPI = (category, country = "in") => {
   return `${BASE_URL}/top-headlines/category/${category}/${country}.json`;

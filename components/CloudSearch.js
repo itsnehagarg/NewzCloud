@@ -9,10 +9,10 @@ import {
   View,
 } from "react-native";
 import { NewsContext } from "../API/Context";
-import SingleNews from "./SingleNews";
+import CloudNews from "./CloudNews";
 import { Entypo } from "@expo/vector-icons";
 
-const Search = () => {
+const CloudSearch = () => {
   const {
     darkTheme,
     news: { articles },
@@ -87,14 +87,14 @@ const Search = () => {
           <Entypo name="circle-with-cross" size={30} color="white" />
         </TouchableOpacity>
         <View style={{ height: "100%", transform: [{ scaleY: -1 }] }}>
-          <SingleNews item={currentNews} darkTheme={darkTheme} />
+          <CloudNews item={currentNews} darkTheme={darkTheme} />
         </View>
       </Modal>
     </View>
   );
 };
 
-export default Search;
+export default CloudSearch;
 
 const styles = StyleSheet.create({
   search: {

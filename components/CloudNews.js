@@ -13,7 +13,7 @@ import {
 const windowWidth = Dimensions.get("window").width;
 const windowHeight = Dimensions.get("window").height;
 
-const SingleNews = ({ item, index, darkTheme }) => {
+const CloudNews = ({ item, index, darkTheme }) => {
   return (
     <View
       style={{
@@ -66,7 +66,7 @@ const SingleNews = ({ item, index, darkTheme }) => {
   );
 };
 
-export default SingleNews;
+export default CloudNews;
 
 const styles = StyleSheet.create({
   description: {
