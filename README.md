@@ -86,7 +86,7 @@ Runs your app in development mode.
 ## Application screenshots and steps to use the app
 ### Screenshots: 📷
 Step 1: When the NewzCloud application is loaded the user will be able to see the News feed and they can scroll to get the latest news update from all over the world as shown on the screen shot below:<br />
-<img src="images/page1.jpeg" width=400 height=700 />
+<img src="images/page1.jpeg" width=300 height=600 />
 
 Step 2: User can click on the "Discover" on the top-left corner and click on it. After clicking on Discover below screen will appear:<br />
 <img src="images/page2.jpeg" width=400 height=700 />
