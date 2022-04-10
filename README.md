@@ -87,8 +87,7 @@ Runs your app in development mode.
 ### Screenshots: 📷
 Step 1: When the NewzCloud application is loaded the user will be able to see the News feed and they can scroll to get the latest news update from all over the world as shown on the screen shot below:
 ![page 1](https://user-images.githubusercontent.com/20385826/162628769-88229b58-ecb7-4781-b3be-484001853489.jpeg)
-<img src="(https://user-images.githubusercontent.com/20385826/162628769-88229b58-ecb7-4781-b3be-484001853489.jpeg" width="200" height="200">
-<img src="https://github.com/favicon.ico" width="48">
+<img src="https://user-images.githubusercontent.com/20385826/162628769-88229b58-ecb7-4781-b3be-484001853489.jpeg" width="200" height="200">
 
 
 
