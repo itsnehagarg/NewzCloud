@@ -14,10 +14,9 @@ News app will fetch the latest news from around the globe and display it to the 
   * [Scripts for execution of the app](#scripts-for-execution-of-the-app) 
 * [Application screenshots and steps to use the app](#application-screenshots-and-steps-to-use-the-app)
 * [Contributors](#Contributors)
-* [Troubleshooting](#Troubleshooting)
  
 
-## 🤳 Audience 
+##  Audience 🤳
 
 This app will attract the audience from all age groups who are interested in reading news from all around the world. It will cater to the needs of the audience by
 also providing categories feature where one can select the category of the news in which they are most interested.
