@@ -86,8 +86,7 @@ Runs your app in development mode.
 ## Application screenshots and steps to use the app
 ### Screenshots: 📷
 Step 1: When the NewzCloud application is loaded the user will be able to see the News feed and they can scroll to get the latest news update from all over the world as shown on the screen shot below:
-![page 1](https://user-images.githubusercontent.com/20385826/162628769-88229b58-ecb7-4781-b3be-484001853489.jpeg)
-<img src="(https://user-images.githubusercontent.com/20385826/162628769-88229b58-ecb7-4781-b3be-484001853489.jpeg" width="200" height="200">
+![page 1](images/page1.jpeg)
 
 Step 2: User can click on the "Discover" on the top-left corner and click on it. After clicking on Discover below screen will appear:
 ![page2](images/page2.jpeg)
@@ -106,10 +105,16 @@ Science
 Sports
 Technology
 
+Step 5: By clicking on these Categories of news, user will be redirected to that category of news. For example, by clciking on Science user will be taken to news of Science category.
+![sciencecategory](images/sciencecategory.jpeg)
+
+Step 6: After the user makes the selection based on the category, user also has the option to view the News based on the News Channel. User will be redirected to News Channel specific news.
+For Example: When user clicks on BBC news he will be shown news fetched from BBC news as shown in the screenshot below.
+![page6](images/page6.jpeg)
 
 
 ## Contributors
 ### Raghav Sharma
 ### Neha Garg
 
-## Troubleshooting
+
