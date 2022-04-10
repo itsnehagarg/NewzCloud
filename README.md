@@ -105,7 +105,7 @@ Step 5: By clicking on these Categories of news, user will be redirected to that
 
 
 Step 6: After the user makes the selection based on the category, user also has the option to view the News based on the News Channel. User will be redirected to News Channel specific news.
-For Example: When user clicks on BBC news he will be shown news fetched from BBC news as shown in the screenshot below.
+For Example: When user clicks on BBC news he will be shown news fetched from BBC news as shown in the screenshot below.<br />
 <img src="images/page6.jpeg" width=400 height=700 />
 
 
