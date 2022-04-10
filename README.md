@@ -89,6 +89,23 @@ Step 1: When the NewzCloud application is loaded the user will be able to see th
 ![page 1](https://user-images.githubusercontent.com/20385826/162628769-88229b58-ecb7-4781-b3be-484001853489.jpeg)
 <img src="(https://user-images.githubusercontent.com/20385826/162628769-88229b58-ecb7-4781-b3be-484001853489.jpeg" width="200" height="200">
 
+Step 2: User can click on the "Discover" on the top-left corner and click on it. After clicking on Discover below screen will appear:
+![page2](images/page2.jpeg)
+
+
+Step 3: Categories: User can view the news on the choice of the Categories. The various categories provided in the News app is shown below:
+![page3](images/page3.jpeg)
+General
+Business
+Entertainment
+
+Step 4: Swipe on the right side to view more categories
+![page4](images/page4.jpeg)
+Health 
+Science
+Sports
+Technology
+
 
 
 ## Contributors
