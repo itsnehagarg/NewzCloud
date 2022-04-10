@@ -2,7 +2,22 @@
 
 News app will fetch the latest news from around the globe and display it to the users.It will provide headlines and details in the form of the Feed which will refresh and get the latest and most updated news. This app will get the news from multiple sources and news channels such as CNN, BBC. This app will also give users an option to select from the different categories of news.
 
-## 🤳 Audience
+## Table of Contents
+
+* [Audience](#audience)
+* [Contents - Features](#contents-features)
+* [Requirements](#Requirements)
+* [Technology Stack used in App](#technology-stack-used-in-app)
+* [Building React Native NewzCloud app](#building-react-native-newzCloud-app)
+* [Documentation] (#documentation) 
+  * [Installation Steps] (#installation-steps) 
+  * [Scripts for execution of the app] (#scripts-for-execution-of-the-app) 
+* [Application screenshots and steps to use the app](#application-screenshots-and-steps-to-use-the-app)
+* [Contributors](#Contributors)
+* [Troubleshooting](#Troubleshooting)
+ 
+
+## 🤳 Audience 
 
 This app will attract the audience from all age groups who are interested in reading news from all around the world. It will cater to the needs of the audience by
 also providing categories feature where one can select the category of the news in which they are most interested.
@@ -44,10 +59,16 @@ React-Native is used for the development of NewzCloud mobile application. This a
 ## 📖 Documentation
 
 For executing the application below steps needs to be followed:
-## Basic installation for code execution
+
+## 🛠️ Installation Steps
+
 1. Install node js on your system
-2. Install expo client
-3. You can use VS code as the IDE for viewing the code and making the code changes.
+3. Install expo client
+4. You can use VS code as the IDE for viewing the code and making the code changes
+5. Clone the repository
+6. Change the working directory
+7. Install dependencies: npm install
+8. Run the app: npm start
 
 ## Scripts for execution of the app
 ### `npm start`
@@ -63,7 +84,14 @@ Runs your app in development mode.
 3. After scanning the NewzCloud app will load and the user can start using the application.
 
 ## Application screenshots and steps to use the app
+### Screenshots: 📷
+Step 1: When the NewzCloud application is loaded the user will be able to see the News feed and they can scroll to get the latest news update from all over the world as shown on the screen shot below:
+![page 1](https://user-images.githubusercontent.com/20385826/162628769-88229b58-ecb7-4781-b3be-484001853489.jpeg)
 
-## Sharing and Deployment
+
+
+## Contributors
+### Raghav Sharma
+### Neha Garg
 
 ## Troubleshooting
