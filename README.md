@@ -4,7 +4,7 @@ News app will fetch the latest news from around the globe and display it to the 
 
 ## Table of Contents
 
-* [Audience](#audience)
+* [Audience](##audience)
 * [Contents - Features](#contents-features)
 * [Requirements](#Requirements)
 * [Technology Stack used in App](#technology-stack-used-in-app)
