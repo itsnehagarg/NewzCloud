@@ -8,7 +8,10 @@ News app will fetch the latest news from around the globe and display it to the 
 * [Contents - Features](#contents-features)
 * [Requirements](#Requirements)
 * [Technology Stack used in App](#technology-stack-used-in-app)
-  * [Building React Native NewzCloud app](#building-react-native-newzCloud-app)
+* [Building React Native NewzCloud app](#building-react-native-newzCloud-app)
+* [Documentation] (#documentation) 
+  * [Installation Steps] (#installation-steps) 
+  * [Scripts for execution of the app] (#scripts-for-execution-of-the-app) 
 * [Application screenshots and steps to use the app](#application-screenshots-and-steps-to-use-the-app)
 * [Contributors](#Contributors)
 * [Troubleshooting](#Troubleshooting)
@@ -56,10 +59,16 @@ React-Native is used for the development of NewzCloud mobile application. This a
 ## 📖 Documentation
 
 For executing the application below steps needs to be followed:
-## Basic installation for code execution
+
+## 🛠️ Installation Steps
+
 1. Install node js on your system
-2. Install expo client
-3. You can use VS code as the IDE for viewing the code and making the code changes.
+3. Install expo client
+4. You can use VS code as the IDE for viewing the code and making the code changes
+5. Clone the repository
+6. Change the working directory
+7. Install dependencies: npm install
+8. Run the app: npm start
 
 ## Scripts for execution of the app
 ### `npm start`
@@ -82,7 +91,7 @@ Step 1: When the NewzCloud application is loaded the user will be able to see th
 
 
 ## Contributors
-Raghav Sharma
-Neha Garg
+### Raghav Sharma
+### Neha Garg
 
 ## Troubleshooting
