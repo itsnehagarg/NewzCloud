@@ -7,9 +7,9 @@ News app will fetch the latest news from around the globe and display it to the 
 * [Audience](#audience)
 * [Contents - Features](#contents-features)
 * [Requirements](#Requirements)
-* [Technology Stack used in App](#Technology Stack used in App)
-  * [Building React Native NewzCloud app](#Building React Native NewzCloud app)
-* [Application screenshots and steps to use the app](#Application screenshots and steps to use the app)
+* [Technology Stack used in App](#technology-stack-used-in-app)
+  * [Building React Native NewzCloud app](#building-react-native-newzCloud-app)
+* [Application screenshots and steps to use the app](#application-screenshots-and-steps-to-use-the-app)
 * [Contributors](#Contributors)
 * [Troubleshooting](#Troubleshooting)
  
@@ -77,10 +77,12 @@ Runs your app in development mode.
 ## Application screenshots and steps to use the app
 ### Screenshots: 📷
 Step 1: When the NewzCloud application is loaded the user will be able to see the News feed and they can scroll to get the latest news update from all over the world as shown on the screen shot below:
-
+![page 1](https://user-images.githubusercontent.com/20385826/162628769-88229b58-ecb7-4781-b3be-484001853489.jpeg)
 
 
 
 ## Contributors
+Raghav Sharma
+Neha Garg
 
 ## Troubleshooting
