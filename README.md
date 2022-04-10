@@ -4,14 +4,14 @@ News app will fetch the latest news from around the globe and display it to the 
 
 ## Table of Contents
 
-* [Audience](##audience)
+* [Audience](#audience)
 * [Contents - Features](#contents-features)
 * [Requirements](#Requirements)
 * [Technology Stack used in App](#technology-stack-used-in-app)
 * [Building React Native NewzCloud app](#building-react-native-newzCloud-app)
-* [Documentation] (#documentation) 
-  * [Installation Steps] (#installation-steps) 
-  * [Scripts for execution of the app] (#scripts-for-execution-of-the-app) 
+* [Documentation](#documentation) 
+  * [Installation Steps](#installation-steps) 
+  * [Scripts for execution of the app](#scripts-for-execution-of-the-app) 
 * [Application screenshots and steps to use the app](#application-screenshots-and-steps-to-use-the-app)
 * [Contributors](#Contributors)
 * [Troubleshooting](#Troubleshooting)
