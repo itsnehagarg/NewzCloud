@@ -55,8 +55,8 @@ Future Prospects or features that can be integrated:
 React-Native is used for the development of NewzCloud mobile application. This application interacts with the several external APIs through REST API calls and consumes the data from various sources to display the latest news to the user.AXIOS is also used in this app which is a lightweight HTTP client based on the $http service and it is used for fetching the data.
 
 NewzCloud mobile application is using third-party APIs to fetch the latest news and the main third-party APIs with which this app interacts is as mentioned below:
-Wikimedia
-Bankimooncenter
+### Wikimedia
+### Bankimooncenter
 
 
 ## 🎉 Building React Native NewzCloud app
