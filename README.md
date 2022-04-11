@@ -104,27 +104,27 @@ This project follows a simple and elegant project structure according to the ind
 ## Application screenshots and steps to use the app
 ### Screenshots: 📷
 Step 1: When the NewzCloud application is loaded the user will be able to see the News feed and they can scroll to get the latest news update from all over the world as shown on the screen shot below:<br />
-<img src="images/page1.jpeg" width=350 height=575 />
+<img src="images/page1.jpeg" width=350 height=600 />
 
 Step 2: User can click on the "Discover" on the top-left corner and click on it. After clicking on Discover below screen will appear:<br />
-<img src="images/page2.jpeg" width=350 height=575 />
+<img src="images/page2.jpeg" width=350 height=600 />
 
 
 Step 3: Categories: User can view the news on the choice of the Categories. The various categories provided in the News app are General, Business, Entertainment and they are shown below:<br />
-<img src="images/page3.jpeg" width=350 height=575 />
+<img src="images/page3.jpeg" width=350 height=600 />
 
 
 Step 4: Swipe on the right side to view more categories Health, Science, Sports, Technology<br />
-<img src="images/page4.jpeg" width=350 height=575 />
+<img src="images/page4.jpeg" width=350 height=600 />
 
 
 Step 5: By clicking on these Categories of news, user will be redirected to that category of news. For example, by clciking on Science user will be taken to news of Science category.<br />
-<img src="images/science.jpeg" width=350 height=575 />
+<img src="images/science.jpeg" width=350 height=600 />
 
 
 Step 6: After the user makes the selection based on the category, user also has the option to view the News based on the News Channel. User will be redirected to News Channel specific news.
 For Example: When user clicks on BBC news he will be shown news fetched from BBC news as shown in the screenshot below.<br />
-<img src="images/page6.jpeg" width=350 height=575 />
+<img src="images/page6.jpeg" width=350 height=600 />
 
 ## Design Patterns in App
 
