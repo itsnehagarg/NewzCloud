@@ -5,7 +5,16 @@ import { NewsContext } from "../API/Context";
 import DiscoverScreen from "../Screens/DiscoverScreen";
 import NewsScreen from "../Screens/NewsScreen";
 import CloudNavigation from "./CloudNavigation";
-
+/**
+ * App()
+ * Purpose: This function is the NewzCloudTabs function which will return the View component
+ * for display on the User Interface
+ * Parameter(s):
+ *  It takes 0 parameter
+ * Precondition(s):
+ * <1> imports React components
+ * Returns: This function returns main <View> component
+ */
 export default function NewzCloudTabs() {
   const layout = useWindowDimensions();
 

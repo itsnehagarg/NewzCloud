@@ -11,7 +11,16 @@ import {
 import { NewsContext } from "../API/Context";
 import CloudNews from "./CloudNews";
 import { Entypo } from "@expo/vector-icons";
-
+/**
+ * App()
+ * Purpose: This function is the CloudSearch function which will return the View component
+ * for display on the User Interface
+ * Parameter(s):
+ *  It takes 0 parameter
+ * Precondition(s):
+ * <1> imports React components
+ * Returns: This function returns main <View> component
+ */
 const CloudSearch = () => {
   const {
     darkTheme,
@@ -95,7 +104,8 @@ const CloudSearch = () => {
 };
 
 export default CloudSearch;
-
+/*This is the stylesheet that helps in displaying the layout on the scren and setting
+ * the User Interface properties*/
 const styles = StyleSheet.create({
   search: {
     paddingVertical: 10,

@@ -5,7 +5,16 @@ import { SimpleLineIcons } from "@expo/vector-icons";
 import { Feather } from "@expo/vector-icons";
 import { NewsContext } from "../API/Context";
 import { MaterialCommunityIcons } from "@expo/vector-icons";
-
+/**
+ * App()
+ * Purpose: This function is the CloudNavigation function which will return the View component
+ * for display on the User Interface
+ * Parameter(s):
+ *  It takes 2 parameters
+ * Precondition(s):
+ * <1> imports React components
+ * Returns: This function returns main <View> component
+ */
 const CloudNavigation = ({ index, setIndex }) => {
   const { darkTheme, setDarkTheme, fetchNews } = useContext(NewsContext);
 
@@ -75,7 +84,8 @@ const CloudNavigation = ({ index, setIndex }) => {
 };
 
 export default CloudNavigation;
-
+/*This is the stylesheet that helps in displaying the layout on the scren and setting
+ * the User Interface properties*/
 const styles = StyleSheet.create({
   container: {
     flexDirection: "row",

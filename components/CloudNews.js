@@ -12,7 +12,16 @@ import {
 
 const windowWidth = Dimensions.get("window").width;
 const windowHeight = Dimensions.get("window").height;
-
+/**
+ * App()
+ * Purpose: This function is the CloudNews function which will return the View component
+ * for display on the User Interface
+ * Parameter(s):
+ *  It takes 3 parameters
+ * Precondition(s):
+ * <1> imports React components
+ * Returns: This function returns main <View> component
+ */
 const CloudNews = ({ item, index, darkTheme }) => {
   return (
     <View
@@ -67,7 +76,8 @@ const CloudNews = ({ item, index, darkTheme }) => {
 };
 
 export default CloudNews;
-
+/*This is the stylesheet that helps in displaying the layout on the scren and setting
+ * the User Interface properties*/
 const styles = StyleSheet.create({
   description: {
     padding: 15,
