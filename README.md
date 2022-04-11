@@ -128,6 +128,12 @@ For Example: When user clicks on BBC news he will be shown news fetched from BBC
 
 ## Design Patterns in App
 
+1. We started building our app with the presenatational components and as the development evolved we started adding components and screens to the application.
+2. After sometime we realised that alot of props were passed down to the line to the intermediate components.
+3. Then we planned to introduce controller components in our app. This way we got the behaviour and other props to the end components without affecting the intermediary components.
+4. We ended up using **Container-View pattern** which is an efficient and effective way to build react-native mobile application.
+5. **Container component** act as the entry point and is responsible for getting the data and calling the required business logic for performing all the logical and necessary operations.
+6. **View Component** act as the component that comprises of all the View related components and is responsible for design, look and feel and over all view of the application along with the StyleSheets added to these components. All the logic related to presenatation is added to the View component of the application.
 
 ## Contributors
 ### Raghav Sharma 
