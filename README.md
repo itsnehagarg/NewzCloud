@@ -12,8 +12,10 @@ News app will fetch the latest news from around the globe and display it to the 
 * [Documentation](#documentation) 
   * [Installation Steps](#installation-steps) 
   * [Scripts for execution of the app](#scripts-for-execution-of-the-app) 
+  * [Folder structure](#folder-structure)
 * [Application screenshots and steps to use the app](#application-screenshots-and-steps-to-use-the-app)
 * [Contributors](#Contributors)
+* [Design Patterns in App](#design-patterns-in-app)
  
 
 ## 🤳 Audience 
@@ -82,6 +84,23 @@ Runs your app in development mode.
 2. Scan the QR code on your android or iOs device which has the expo app installed.
 3. After scanning the NewzCloud app will load and the user can start using the application.
 
+## Folder structure
+This project follows a simple and elegant project structure according to the industry standards. The project structure is shown below:
+ 
+  - `API`: This folder contains actions and the js file.
+  - `assets`: This folder stores all images used in the project.
+  - `components`: This folder stores components used in the project.
+	  - `CloudNavigation.js`
+      - `CloudNews.js`
+	  - `CloudSearch.js`
+      - `NewzCloudTabs.js`
+  - `images`: This folder conatins screenshots of all the main components and screens after the app is executed on an Android device.
+  - `Screens`: This folder contains all the application screens/features.
+      - `Discover.js`
+      - `NewsScreen.js`
+  - `App.js`: This is the main file inside our application from where the execution of the project starts.
+
+
 ## Application screenshots and steps to use the app
 ### Screenshots: 📷
 Step 1: When the NewzCloud application is loaded the user will be able to see the News feed and they can scroll to get the latest news update from all over the world as shown on the screen shot below:<br />
@@ -107,9 +126,11 @@ Step 6: After the user makes the selection based on the category, user also has 
 For Example: When user clicks on BBC news he will be shown news fetched from BBC news as shown in the screenshot below.<br />
 <img src="images/page6.jpeg" width=350 height=575 />
 
+## Design Patterns in App
+
 
 ## Contributors
-### Raghav Sharma
-### Neha Garg
+### Raghav Sharma 
+### Neha Garg 
 
 
